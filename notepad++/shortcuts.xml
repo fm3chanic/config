@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <InternalCommands>
+        <Shortcut id="42085" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="48011" Ctrl="no" Alt="yes" Shift="yes" Key="73" />
+        <Shortcut id="44011" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41008" Ctrl="yes" Alt="no" Shift="yes" Key="83" />
+        <Shortcut id="41007" Ctrl="yes" Alt="yes" Shift="no" Key="83" />
+        <Shortcut id="50003" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="50004" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44095" Ctrl="yes" Alt="no" Shift="no" Key="9" />
+        <Shortcut id="44096" Ctrl="yes" Alt="no" Shift="yes" Key="9" />
+        <Shortcut id="44072" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42026" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42027" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="46001" Ctrl="no" Alt="yes" Shift="yes" Key="83" />
+        <Shortcut id="41014" Ctrl="no" Alt="no" Shift="no" Key="116" />
+        <Shortcut id="49000" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="50005" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42021" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44051" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44052" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44053" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44054" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44055" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44056" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44057" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44058" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44061" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44062" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44063" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44064" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44065" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44066" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44067" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44068" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44030" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44031" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44010" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44029" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44042" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44098" Ctrl="yes" Alt="yes" Shift="no" Key="39" />
+        <Shortcut id="44099" Ctrl="yes" Alt="yes" Shift="no" Key="37" />
+        <Shortcut id="44086" Ctrl="no" Alt="yes" Shift="yes" Key="49" />
+        <Shortcut id="44087" Ctrl="no" Alt="yes" Shift="yes" Key="50" />
+        <Shortcut id="44088" Ctrl="no" Alt="yes" Shift="yes" Key="51" />
+        <Shortcut id="44089" Ctrl="no" Alt="yes" Shift="yes" Key="52" />
+        <Shortcut id="44090" Ctrl="no" Alt="yes" Shift="yes" Key="53" />
+        <Shortcut id="44091" Ctrl="no" Alt="yes" Shift="yes" Key="54" />
+        <Shortcut id="44092" Ctrl="no" Alt="yes" Shift="yes" Key="55" />
+        <Shortcut id="44093" Ctrl="no" Alt="yes" Shift="yes" Key="56" />
+        <Shortcut id="44094" Ctrl="no" Alt="yes" Shift="yes" Key="57" />
+        <Shortcut id="47000" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="10001" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="10003" Ctrl="yes" Alt="yes" Shift="no" Key="32" />
+        <Shortcut id="50006" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42057" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42058" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42022" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42023" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="50010" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="50011" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="50002" Ctrl="yes" Alt="no" Shift="no" Key="112" />
+        <Shortcut id="42084" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41021" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42001" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42002" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42005" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42089" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41010" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42034" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43045" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43011" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43015" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43014" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43049" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43048" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43033" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43034" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43035" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43036" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43037" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43038" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43039" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43040" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43041" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43042" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43043" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43044" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44111" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44112" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44113" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44114" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44115" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44110" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42020" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42070" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42068" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43054" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43047" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43046" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42016" Ctrl="yes" Alt="no" Shift="no" Key="85" />
+        <Shortcut id="42017" Ctrl="yes" Alt="no" Shift="yes" Key="85" />
+        <Shortcut id="42067" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="48009" Ctrl="no" Alt="yes" Shift="yes" Key="84" />
+        <Shortcut id="46250" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="46180" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="10005" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="10006" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43013" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42086" Ctrl="no" Alt="yes" Shift="no" Key="68" />
+        <Shortcut id="50000" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43002" Ctrl="yes" Alt="no" Shift="no" Key="69" />
+        <Shortcut id="43010" Ctrl="yes" Alt="no" Shift="no" Key="81" />
+        <Shortcut id="43005" Ctrl="no" Alt="yes" Shift="no" Key="76" />
+        <Shortcut id="43006" Ctrl="yes" Alt="yes" Shift="no" Key="77" />
+        <Shortcut id="43007" Ctrl="yes" Alt="yes" Shift="no" Key="78" />
+        <Shortcut id="41004" Ctrl="yes" Alt="yes" Shift="no" Key="87" />
+    </InternalCommands>
+    <Macros />
+    <UserDefinedCommands>
+        <Command name="Get PHP help" Ctrl="no" Alt="yes" Shift="no" Key="112">https://www.php.net/$(CURRENT_WORD)</Command>
+        <Command name="Wikipedia Search" Ctrl="no" Alt="yes" Shift="no" Key="114">https://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
+        <Command name="Open selected file path in new instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_FULL_FILE_PATH) $(CURRENT_WORD) -nosession -multiInst</Command>
+    </UserDefinedCommands>
+    <PluginCommands />
+    <ScintillaKeys />
+</NotepadPlus>
